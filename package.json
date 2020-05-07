@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-segment-js",
+  "name": "wm-gatsby-plugin-segment-js",
   "description": "Easily add Segment JS snippet to your website",
   "version": "3.2.1",
   "main": "gatsby-ssr.js",
